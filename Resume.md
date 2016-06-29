@@ -32,3 +32,10 @@
  
 * CV Creation Program
  * Coded and designed with C#. A basic tool for creating a CV from scratch.
+
+###Other Information
+
+Date of Birth : 1992
+Nationality : Turkish
+Phone Number : +905064912366
+E-mail : orhunbayramoglu@gmail.com
