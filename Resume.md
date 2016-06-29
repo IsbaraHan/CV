@@ -41,6 +41,6 @@
 >
 >Residence : Kartal / Istanbul / Turkey
 >
->Phone Number : (+90) 5064912366
+>Phone Number : (+90)506 491 23 66
 >
 >E-mail : orhunbayramoglu@gmail.com
