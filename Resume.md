@@ -29,3 +29,5 @@ buraya resim
 
 	School Petition Program
  * Coded and designed the program with Java, LaTeX and MySQL. Program helps achieving standardization for petitions in the same institution by using LaTeX standarts.
+ 	CV Creation Program
+* Coded and designed with C#. A basic tool for creating a CV from scratch.
