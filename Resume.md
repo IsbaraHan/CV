@@ -33,11 +33,13 @@
 * CV Creation Program
  * Coded and designed with C#. A basic tool for creating a CV from scratch.
 
-###Other Information
+###Personal Information
 
 >Date of Birth : 1992
 >
 >Nationality : Turkish
+>
+>Residence : Kartal / Istanbul / Turkey
 >
 >Phone Number : +905064912366
 >
