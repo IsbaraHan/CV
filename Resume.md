@@ -3,17 +3,19 @@ buraya resim
 
 ###Education
 
-
 2011-2016 (expected)
 	**BSc, Software Engineering**; Maltepe University (English)
 		
-2009-2010
-	Amasya Bahçeşehir High School
-		
-2006-2010
-	Amasya Macit Zeren Science High School
 
-###Specifications &amp Qualifications
+###Computer Skills
+
+| Skills                                 | Level         |
+| -------------------------------------- |---------------|
+| C/C++ programming languages            | Medium        |
+| C# programming language                | Medium        |
+| Java programming language              | Medium	 |
+| MS SQL, MySQL				 | Beginner	 |
+| Microsoft Office Tools		 | Medium	 |
 
 ###Language Skills
 
@@ -21,4 +23,4 @@ buraya resim
 |----------- |----------|
 | Turkish    | Native   |
 | English    | Advanced |
-| French | Beginner |
+| German     | Beginner |
