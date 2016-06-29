@@ -35,7 +35,7 @@
 
 ###Other Information
 
-Date of Birth : 1992
-Nationality : Turkish
-Phone Number : +905064912366
-E-mail : orhunbayramoglu@gmail.com
+>Date of Birth : 1992
+>Nationality : Turkish
+>Phone Number : +905064912366
+>E-mail : orhunbayramoglu@gmail.com
