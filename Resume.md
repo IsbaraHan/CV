@@ -24,3 +24,8 @@ buraya resim
 | Turkish    | Native   |
 | English    | Advanced |
 | German     | Beginner |
+
+###Projects
+
+	School Petition Program
+ * Coded and designed the program with Java, LaTeX and MySQL. Program helps achieving standardization for petitions in the same institution by using LaTeX standarts.
