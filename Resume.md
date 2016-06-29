@@ -1,5 +1,5 @@
 #Orhun Bayramoğlu
-buraya resim
+![https://raw.githubusercontent.com/orhunbayramoglu/CV/9a95f85e9fd5fd1d0f7b39f416156f5473c40d97/cv.jpg]
 
 ###Education
 
