@@ -1,7 +1,7 @@
 #Orhun Bayramoğlu
 buraya resim
 
-##Education
+###Education
 
 
 2011-2016 (expected)
@@ -13,10 +13,10 @@ buraya resim
 2006-2010
 	Amasya Macit Zeren Science High School
 
-##Specifications &amp Qualifications
+###Specifications &amp Qualifications
 
-Language Skills
-----------------------
+###Language Skills
+
 | Language   | Level    |
 |----------- |----------|
 | Turkish    | Native   |
